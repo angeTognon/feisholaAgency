@@ -1,0 +1,435 @@
+# Translation of Plugins - Visibility Logic for Elementor - Stable (latest release) in French (France)
+# This file is distributed under the same license as the Plugins - Visibility Logic for Elementor - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-10-17 13:30:59+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.6\n"
+"Language: fr\n"
+"Project-Id-Version: Plugins - Visibility Logic for Elementor - Stable (latest release)\n"
+
+#: core/helpers/Resources.php:160
+msgid "Archive Pages"
+msgstr "Pages d’archive"
+
+#: core/helpers/Resources.php:152
+msgid "Advanced User Meta"
+msgstr "Méta utilisateur/utilisatrice avancée"
+
+#: core/helpers/Resources.php:148
+msgid "Geo Location"
+msgstr "Géolocalisation"
+
+#: core/helpers/Resources.php:176
+msgid "EDD Users"
+msgstr "Utilisateurs/utilisatrices EDD"
+
+#: core/helpers/Resources.php:172
+msgid "WooCommerce Users"
+msgstr "Utilisateurs/utilisatrices WooCommerce"
+
+#: core/settings/DateTimeVisibility.php:188
+msgid "Use timestamps based on server time:"
+msgstr "Utiliser des horodatages basés sur l’heure du serveur :"
+
+#: core/settings/DateTimeVisibility.php:175
+msgid "When picking time that extends over midnight, the condition will be applied just for the selected days. Example: Wednesday 23:00 - 01:00 doesn't mean that the condition will extend from 23:00 Wednesday till 01:00 Thursday. It will get applied only for Wednesday 00:00 - 01:00 and 23:00 - 24:00."
+msgstr "Lors du choix d’une heure qui s’étend au-delà  de minuit, la condition sera appliquée uniquement pour les jours choisis. Exemple : mercredi 23h00 - 01h00 ne signifie pas que la condition s’étendra de 23h00 mercredi à 01h00 jeudi. Il s’appliquera uniquement le mercredi de 00h00 à 01h00 et de 23h00 à 24h00."
+
+#: core/settings/DateTimeVisibility.php:79
+msgid "Week Days + Time FROM/TO"
+msgstr "Jours de la semaine + heure début/fin"
+
+#: core/admin/pages/Options.php:89 core/admin/pages/templates/options.php:11
+msgid "Options"
+msgstr "Options"
+
+#: core/settings/GeneralVisibility.php:69
+msgid "This will hide the entire section if all the widgets inside it are hidden because of Visiblity conditions. Please note that this won't apply if any of the widgets inside the section is hidden via CSS."
+msgstr "Cela masquera toute la section si tous les widgets qu’elle contient sont masqués en raison des conditions de visibilité. Veuillez noter que cela ne s’appliquera pas si l’un des widgets de la section est masqué via CSS."
+
+#: core/settings/GeneralVisibility.php:68
+msgid "Hide when empty"
+msgstr "Masquer si vide"
+
+#: core/helpers/Resources.php:168
+msgid "Dynamic Conditions"
+msgstr "Conditions dynamiques"
+
+#: core/settings/UserMetaVisibility.php:198
+msgid "Setting the condition to \"None\" will have no effect."
+msgstr "Définir la condition sur « Aucun » n’aura aucun effet."
+
+#: core/settings/UserMetaVisibility.php:91
+msgid "Select the condition that must be met by the meta"
+msgstr "Choisir la condition qui doit être remplie par la méta"
+
+#: core/settings/UserMetaVisibility.php:76
+msgid "Meta key or Name"
+msgstr "Clé méta ou nom"
+
+#: core/settings/UserMetaVisibility.php:73
+msgid "Meta Name"
+msgstr "Nom de méta"
+
+#: core/settings/OldVersionFallback.php:156
+msgid "This is a backwards compatibility for version 1.2.0. If you want to use the new version please enable the option in General tab."
+msgstr "Il s’agit d’une rétrocompatibilité pour la version 1.2.0. Pour utiliser la nouvelle version, activer l’option dans l’onglet Général."
+
+#: core/settings/OldVersionFallback.php:154
+msgid "Important Notice"
+msgstr "Notification importante"
+
+#: core/settings/OldVersionFallback.php:55
+msgid "Old Version (Deprecated)"
+msgstr "Ancienne version (obsolète)"
+
+#: core/settings/UserMetaVisibility.php:179
+msgid "The value of the selected meta and also the the values of the conditions must be numeric."
+msgstr "La valeur de la méta choisie ainsi que les valeurs des conditions doivent être numériques."
+
+#: core/settings/UserMetaVisibility.php:161
+msgid "Type in comma separated strings."
+msgstr "Saisir les chaînes séparées par une virgule."
+
+#: core/settings/UserMetaVisibility.php:145
+msgid "Condition Value 2"
+msgstr "Valeur de la condition 2"
+
+#: core/settings/UserMetaVisibility.php:120
+msgid "Condition Value"
+msgstr "Valeur conditionnelle"
+
+#: core/settings/UserMetaVisibility.php:105
+msgid "Is array and contains"
+msgstr "Est un tableau et contient"
+
+#: core/settings/UserMetaVisibility.php:104
+msgid "Is array"
+msgstr "Est un tableau"
+
+#: core/settings/UserMetaVisibility.php:103
+msgid "Greater than"
+msgstr "Supérieur à"
+
+#: core/settings/UserMetaVisibility.php:102
+msgid "Less than"
+msgstr "Inférieur à"
+
+#: core/settings/UserMetaVisibility.php:101
+msgid "Between"
+msgstr "Entre"
+
+#: core/settings/UserMetaVisibility.php:100
+msgid "Does not contain"
+msgstr "Ne contient pas"
+
+#: core/settings/UserMetaVisibility.php:99
+msgid "Contains"
+msgstr "Contient"
+
+#: core/settings/UserMetaVisibility.php:98
+msgid "Not equal to"
+msgstr "Non égal à"
+
+#: core/settings/UserMetaVisibility.php:97
+msgid "Is equal to one of"
+msgstr "Est égal à l’un des"
+
+#: core/settings/UserMetaVisibility.php:96
+msgid "Is equal to"
+msgstr "Est égal à"
+
+#: core/settings/UserMetaVisibility.php:95
+msgid "Not empty"
+msgstr "N’est pas vide"
+
+#: core/settings/UserMetaVisibility.php:94
+msgid "Empty"
+msgstr "Vide"
+
+#: core/settings/UserMetaVisibility.php:93
+msgid "None"
+msgstr "Aucun"
+
+#: core/settings/UserMetaVisibility.php:90
+msgid "Meta Condition"
+msgstr "Condition méta"
+
+#: core/settings/DateTimeVisibility.php:159
+msgid "Time TO"
+msgstr "Jusqu’à"
+
+#: core/settings/DateTimeVisibility.php:145
+msgid "Time FROM"
+msgstr "Depuis"
+
+#: core/settings/DateTimeVisibility.php:131
+msgid "Select days in the week."
+msgstr "Choisir les jours de la semaine."
+
+#: core/settings/DateTimeVisibility.php:128
+msgid "Days of the WEEK"
+msgstr "Jours de la semaine"
+
+#: core/settings/DateTimeVisibility.php:107
+msgid "Date TO"
+msgstr "Date de fin"
+
+#: core/settings/DateTimeVisibility.php:93
+msgid "Date FROM"
+msgstr "Date de début"
+
+#: core/settings/DateTimeVisibility.php:78
+msgid "Week Days"
+msgstr "Jours de la semaine"
+
+#: core/settings/DateTimeVisibility.php:77
+msgid "Time FROM/TO"
+msgstr "Heure début/fin"
+
+#: core/settings/DateTimeVisibility.php:76
+msgid "Date FROM/TO"
+msgstr "Date début/fin"
+
+#: core/settings/DateTimeVisibility.php:74
+msgid "Select Type:"
+msgstr "Choisir le type :"
+
+#: core/settings/DateTimeVisibility.php:39
+msgid "Date Time"
+msgstr "Heure du jour"
+
+#: core/settings/BrowserTypeVisiblity.php:86
+msgid "Trigger visibility for a specific browsers."
+msgstr "Déclencher la visibilité pour un navigateur spécifique."
+
+#: core/settings/BrowserTypeVisiblity.php:73
+msgid "Browser"
+msgstr "Navigateur"
+
+#: core/Upgrades.php:217
+msgid "Something went wrong, please check logs."
+msgstr "Une erreur est survenue, vérifier le journal d’erreurs."
+
+#: core/Upgrades.php:211
+msgid "Awesome, Visibility Logic database is now at the latest version!"
+msgstr "Super, la base de données Visibility Logic est maintenant à la dernière version !"
+
+#: core/Upgrades.php:96
+msgid "<a href=\"%s\">Update now</a>"
+msgstr "<a href=\"%s\">Mettre à jour maintenant</a>"
+
+#: core/Upgrades.php:88
+msgid "<strong>STAX Visibility Logic</strong> needs to update your database to the latest version."
+msgstr "<strong>STAX Visibility Logic</strong> doit mettre à jour votre base de données vers la dernière version."
+
+#: core/Upgrades.php:83
+msgid "Database update required"
+msgstr "Mise à jour de la base de données nécessaire"
+
+#: core/settings/GeneralVisibility.php:124
+msgid "When the element is hidden, decide if you still want to render the HTML in the page but hidden using CSS."
+msgstr "Lorsque l’élément est masqué, on peut choisir d’afficher le code HTML dans la page mais masqué via CSS."
+
+#: core/settings/GeneralVisibility.php:123
+msgid "Keep HTML/Hide by CSS"
+msgstr "Conserver HTML/Masquer par CSS"
+
+#: core/settings/GeneralVisibility.php:110
+msgid "At least one"
+msgstr "Au moins une"
+
+#: core/settings/GeneralVisibility.php:109
+msgid "All"
+msgstr "Tous"
+
+#: core/settings/GeneralVisibility.php:106
+msgid "If ALL conditions need to be met or JUST ONE in order to trigger the hide/show action."
+msgstr "Si TOUTES les conditions doivent être remplies ou JUSTE UNE pour déclencher l’action masquer/afficher."
+
+#: core/settings/GeneralVisibility.php:105
+msgid "Conditions Type"
+msgstr "Type de condition"
+
+#: core/settings/GeneralVisibility.php:93
+msgid "Show"
+msgstr "Afficher"
+
+#: core/settings/GeneralVisibility.php:92
+msgid "Hide"
+msgstr "Masquer"
+
+#: core/settings/GeneralVisibility.php:88
+msgid "Determine if the element should be hidden or shown when the conditions are met."
+msgstr "Déterminer si l’élément doit être masqué ou affiché lorsque les conditions sont remplies."
+
+#: core/settings/GeneralVisibility.php:87
+msgid "Show/Hide action"
+msgstr "Action pour afficher/masquer"
+
+#: core/settings/GeneralVisibility.php:53
+msgid "Enable Visibility Logic"
+msgstr "Activer la logique de visibilité"
+
+#: core/settings/GeneralVisibility.php:37
+msgid "General"
+msgstr "Général"
+
+#: core/settings/UserRoleVisibility.php:72
+msgid "Roles"
+msgstr "Rôles"
+
+#: core/settings/BrowserTypeVisiblity.php:59
+#: core/settings/DateTimeVisibility.php:58
+#: core/settings/UserMetaVisibility.php:58
+#: core/settings/UserRoleVisibility.php:57
+msgid "Enable"
+msgstr "Activer"
+
+#: core/Plugin.php:78
+msgid "Stax Visibility"
+msgstr "Stax Visibility"
+
+#: core/Singleton.php:59 core/Singleton.php:70
+msgid "Cheatin&#8217; huh?"
+msgstr "Alors, on triche ?"
+
+#: core/admin/pages/templates/options.php:70
+msgid "Save"
+msgstr "Enregistrer"
+
+#: core/admin/pages/templates/options.php:15
+msgid "Choose which Visibility Options should be enabled in Elementor for Widgets and Sections. Disabled options will have no effect in the show/hide logic."
+msgstr "Choisir les options de visibilité à activer dans Elementor pour les widgets et les sections. Les options désactivées n’auront aucun effet dans la logique afficher/masquer."
+
+#: core/admin/layout.php:41
+msgid "Version %s"
+msgstr "Version %s"
+
+#: core/admin/Settings.php:64
+msgid "Dashboard"
+msgstr "Tableau de bord"
+
+#: core/admin/Settings.php:50 core/helpers/Notices.php:64
+msgid "Visibility Logic"
+msgstr "Visibility Logic"
+
+#: core/admin/Settings.php:49
+msgid "STAX Visibility - Dashboard"
+msgstr "Tableau de bord STAX Visibility"
+
+#: core/helpers/Notices.php:76
+msgid "Update Elementor Now"
+msgstr "Mettre à jour Elementor maintenant"
+
+#: core/helpers/Notices.php:65
+msgid "Elementor"
+msgstr "Elementor"
+
+#. translators: 1: Plugin name 2: Elementor
+#: core/helpers/Notices.php:62
+msgid "%1$s requires version %3$s or greater of %2$s plugin."
+msgstr "%1$s nécessite la version %3$s ou supérieure de l’extension %2$s."
+
+#: core/helpers/Notices.php:35
+msgid "Install Elementor"
+msgstr "Installer Elementor"
+
+#: core/helpers/Notices.php:27
+msgid "Activate Elementor"
+msgstr "Activer Elementor"
+
+#. translators: %s: html tags
+#: core/helpers/Notices.php:17
+msgid "%1$sVisibility Logic %2$s requires %1$sElementor%2$s plugin installed & activated."
+msgstr "%1$sVisibility Logic %2$s nécessite l’installation et l’activation de l’extension %1$sElementor%2$s."
+
+#: core/helpers/Resources.php:180
+msgid "Fallback"
+msgstr "Alternative"
+
+#: core/helpers/Resources.php:164
+msgid "Conditional Tags"
+msgstr "Étiquettes conditionnelles"
+
+#: core/helpers/Resources.php:156
+msgid "Post & Page"
+msgstr "Publication/page"
+
+#: core/helpers/Resources.php:106
+msgid "Date & Time"
+msgstr "Date et heure"
+
+#: core/helpers/Resources.php:111 core/settings/BrowserTypeVisiblity.php:40
+msgid "Browser Type"
+msgstr "Type de navigateur"
+
+#: core/helpers/Resources.php:144
+msgid "IP & Referrer"
+msgstr "IP et référent"
+
+#: core/helpers/Resources.php:101 core/settings/UserMetaVisibility.php:39
+msgid "User Meta"
+msgstr "Méta utilisateur/utilisatrice"
+
+#: core/helpers/Resources.php:96 core/settings/UserRoleVisibility.php:38
+msgid "User Role"
+msgstr "Rôle utilisateur/utilisatrice"
+
+#. Author URI of the plugin
+msgid "https://staxwp.com"
+msgstr "https://staxwp.com"
+
+#. Author of the plugin
+msgid "StaxWP"
+msgstr "StaxWP"
+
+#: core/settings/OldVersionFallback.php:138
+msgid "Hidden for:"
+msgstr "Masqué pour :"
+
+#: core/settings/OldVersionFallback.php:121
+msgid "Visible for:"
+msgstr "Visible pour :"
+
+#: core/settings/BrowserTypeVisiblity.php:63
+#: core/settings/DateTimeVisibility.php:62
+#: core/settings/GeneralVisibility.php:57
+#: core/settings/GeneralVisibility.php:73
+#: core/settings/GeneralVisibility.php:128
+#: core/settings/OldVersionFallback.php:111
+#: core/settings/UserMetaVisibility.php:62
+#: core/settings/UserRoleVisibility.php:61
+msgid "No"
+msgstr "Non"
+
+#: core/settings/BrowserTypeVisiblity.php:62
+#: core/settings/DateTimeVisibility.php:61
+#: core/settings/GeneralVisibility.php:56
+#: core/settings/GeneralVisibility.php:72
+#: core/settings/GeneralVisibility.php:127
+#: core/settings/OldVersionFallback.php:110
+#: core/settings/UserMetaVisibility.php:61
+#: core/settings/UserRoleVisibility.php:60
+msgid "Yes"
+msgstr "Oui"
+
+#: core/settings/OldVersionFallback.php:107
+msgid "Enable Conditions"
+msgstr "Activer les conditions"
+
+#. Description of the plugin
+msgid "Hide or show Elementor widgets based on conditions"
+msgstr "Masquer/afficher les widgets Elementor selon des conditions"
+
+#. Plugin URI of the plugin
+msgid "https://wordpress.org/plugins/visibility-logic-elementor"
+msgstr "https://wordpress.org/plugins/visibility-logic-elementor"
+
+#. Plugin Name of the plugin
+msgid "Visibility Logic for Elementor"
+msgstr "Visibility Logic for Elementor"
