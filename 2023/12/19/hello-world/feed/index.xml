@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Commentaires sur : Hello world!	</title>
-	<atom:link href="/https://angetognon.github.io/feisholaAgency//2023/12/19/hello-world/feed/" rel="self" type="application/rss+xml" />
-	<link>/https://angetognon.github.io/feisholaAgency//2023/12/19/hello-world/</link>
+	<atom:link href="https://angetognon.github.io/feisholaAgency/2023/12/19/hello-world/feed/" rel="self" type="application/rss+xml" />
+	<link>https://angetognon.github.io/feisholaAgency/2023/12/19/hello-world/</link>
 	<description></description>
 	<lastBuildDate>Tue, 19 Dec 2023 21:19:13 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,11 +20,11 @@
 	<item>
 		<title>
 		Par : A WordPress Commenter		</title>
-		<link>/https://angetognon.github.io/feisholaAgency//2023/12/19/hello-world/#comment-1</link>
+		<link>https://angetognon.github.io/feisholaAgency/2023/12/19/hello-world/#comment-1</link>
 
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
 		<pubDate>Tue, 19 Dec 2023 21:19:13 +0000</pubDate>
-		<guid isPermaLink="false">/https://angetognon.github.io/feisholaAgency//?p=1#comment-1</guid>
+		<guid isPermaLink="false">https://angetognon.github.io/feisholaAgency/?p=1#comment-1</guid>
 
 					<description><![CDATA[Hi, this is a comment.
 To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.
